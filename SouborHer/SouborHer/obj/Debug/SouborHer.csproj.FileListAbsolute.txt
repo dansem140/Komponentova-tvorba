@@ -1,0 +1,9 @@
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\bin\Debug\SouborHer.exe.config
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\bin\Debug\SouborHer.exe
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\bin\Debug\SouborHer.pdb
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.csprojAssemblyReference.cache
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.Properties.Resources.resources
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.csproj.GenerateResource.cache
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.csproj.CoreCompileInputs.cache
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.exe
+D:\JetBrains\_Projects\RiderProjects\Dansem\Komponentova-tvorba\SouborHer\SouborHer\obj\Debug\SouborHer.pdb

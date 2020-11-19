@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\bin\Debug\Cislo.exe
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\bin\Debug\Cislo.pdb
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\obj\Debug\Cislo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\obj\Debug\Cislo.exe
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\obj\Debug\Cislo.pdb
+C:\Users\Admin\Desktop\CZU\KomponentovaTvorba\Cislo\Cislo\obj\Debug\Cislo.csproj.CoreCompileInputs.cache
